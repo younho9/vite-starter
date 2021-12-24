@@ -50,7 +50,7 @@
 		"@types/react": "^17.0.33",
 		"@types/react-dom": "^17.0.10",
 		"@vitejs/plugin-react": "^1.0.7",
-		"@younho9/xo-configs": "0.1.0",
+		"@younho9/xo-configs": "0.3.1",
 		"husky": "7.0.4",
 		"jest": "27.4.5",
 		"lint-staged": "12.1.3",
