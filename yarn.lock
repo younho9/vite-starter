@@ -995,10 +995,10 @@
     react-refresh "^0.11.0"
     resolve "^1.20.0"
 
-"@younho9/xo-configs@0.3.1":
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/@younho9/xo-configs/-/xo-configs-0.3.1.tgz#dc5b1b55786f0abbda293ce951bd680ec1ff1e64"
-  integrity sha512-vnadSHmqfkoUUTPIXG5eZZ3ZqBgt0Oux7qiQMOmexHZ2agks+l4anBdjFleffxxElRzu83SMyzLSYjkhSeQckA==
+"@younho9/xo-configs@0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@younho9/xo-configs/-/xo-configs-0.4.0.tgz#db9287bcd73effff1e50294f1c78f187b281042c"
+  integrity sha512-VFEuxPiyp/F8FXSI672OxjuIkcUxuzm1clUSBQMPYOENzBzy2jTKn2CiN1sCSmMCnfHNIW1+1RDxIQP7YNwMHA==
   dependencies:
     eslint-config-xo-react "0.25.0"
     eslint-plugin-react "7.28.0"
